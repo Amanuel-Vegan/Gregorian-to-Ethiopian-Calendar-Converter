@@ -31,3 +31,5 @@ D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCal
 D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCalander\obj\Debug\net7.0\GregorianToEthiopianCalander.pdb
 D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCalander\obj\Debug\net7.0\GregorianToEthiopianCalander.genruntimeconfig.cache
 D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCalander\obj\Debug\net7.0\ref\GregorianToEthiopianCalander.dll
+D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCalander\bin\Debug\net7.0\Converter.Application.dll
+D:\Github Repo\Gregorian-to-Ethiopian-Calendar-Converter\GregorianToEthiopianCalander\bin\Debug\net7.0\Converter.Application.pdb

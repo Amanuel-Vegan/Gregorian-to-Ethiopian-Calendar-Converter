@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Converter.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Converter.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converter.Application.dll": {}
+        }
       }
     }
   },
@@ -451,10 +461,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Converter.Application/1.0.0": {
+      "type": "project",
+      "path": "../Converter.Application/Converter.Application.csproj",
+      "msbuildProject": "../Converter.Application/Converter.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Converter.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -485,7 +501,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\Converter.Application\\Converter.Application.csproj": {
+              "projectPath": "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\Converter.Application\\Converter.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
