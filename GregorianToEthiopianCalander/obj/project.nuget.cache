@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LqEVZ/wm34PA4twhFFE00I2rXlRZKf8FWfSTgwrYA819TEZKjqHgPh8Xh6GU4KF9CBDmJY/SSdXpQZ4P9v8Ypg==",
+  "dgSpecHash": "FIcvCvIv13ForNTcWWd5sIfzl38ZEBWX2cw6Cpu9mkLq3b3vQmDCgQgeiAWtz6cawf9xKoF46+0i7ZGWcEzXLw==",
   "success": true,
-  "projectFilePath": "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanuel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Amanuel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

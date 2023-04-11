@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj": {}
+    "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj": {}
   },
   "projects": {
-    "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj": {
+    "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
+        "projectUniqueName": "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
         "projectName": "GregorianToEthiopianCalander",
-        "projectPath": "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
+        "projectPath": "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\GregorianToEthiopianCalander.csproj",
         "packagesPath": "C:\\Users\\Amanuel\\.nuget\\packages\\",
-        "outputPath": "D:\\UoG software project\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\obj\\",
+        "outputPath": "D:\\Github Repo\\Gregorian-to-Ethiopian-Calendar-Converter\\GregorianToEthiopianCalander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
